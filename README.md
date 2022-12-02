@@ -5,7 +5,7 @@ Quiz App - first version
 [Quiz App sec](QuizApp%20(src))
 
 ## Documentation
-[Quiz App documentation](QuizApp%20(Documentation).docx)
+[Quiz App documentation](QuizApp.pdf)
 
 ## Logo
 ![Quiz App Logo](https://github.com/KhaledAdelM/QuizApp-V1/blob/main/QuizApp%20(Logo).png)
